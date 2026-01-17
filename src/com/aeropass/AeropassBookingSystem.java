@@ -2,7 +2,7 @@ package com.aeropass;
 
 import com.aeropass.utils.EmailService;
 import com.aeropass.models.Passenger;
-import com.aeropass.models.Flight;
+
 import java.util.Scanner;
 
 public class AeropassBookingSystem {

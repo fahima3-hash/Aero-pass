@@ -45,5 +45,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="activation-1.1.1" level="project" />
+    <orderEntry type="library" name="itextpdf-5.5.13.3" level="project" />
+    <orderEntry type="library" name="javax.mail-1.6.2" level="project" />
   </component>
 </module>
